@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata"><fullName>Wholesale</fullName><active>true</active>
+<businessProcess>Blush_Sales_Process</businessProcess><description>Wholesale (B2B) customers and sales</description><label>Wholesale</label></RecordType>

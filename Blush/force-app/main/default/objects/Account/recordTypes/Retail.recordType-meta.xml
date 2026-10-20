@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata"><fullName>Retail</fullName><active>true</active>
+<description>Retail (B2C) customers and sales</description><label>Retail (B2C)</label></RecordType>
